@@ -1,0 +1,132 @@
+baseURL: "https://unboundzz.github.io"
+languageCode: "it-it"
+defaultContentLanguage: "it"
+title: Unbound
+theme: PaperMod
+
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: Unbound
+  description: "Il mio blog libero"
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  env: production
+
+  hideFooter: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  footer:
+    hideCopyright: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: /favicon/favicon.ico
+    favicon16x16: /favicon/favicon-16x16.png
+    favicon32x32: /favicon/favicon-32x32.png
+    apple_touch_icon: /favicon/apple-touch-icon.png
+    safari_pinned_tab: /favicon/apple-touch-icon.png
+    android_chrome_192x192: /favicon/android-chrome-192x192.png
+    android_chrome_512x512: /favicon/android-chrome-512x512.png
+    favicon_svg: /favicon/unbound.svg
+    manifest: /favicon/site.webmanifest
+
+
+  label:
+    text: "Home"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Unbound
+    subtitle: "Il mio canto libero"
+    imageUrl: "/images/logo.png"
+    imageWidth: 200	
+    imageHeight: 200
+    imageTitle: Un uccello in volo
+    buttons:
+      - name: Visualizza i post
+        url: posts
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Unbound"
+    Content: Il mio canto libero
+  
+
+  socialIcons:
+    - name: rss
+      url: "#"
+    - name: signal
+      url: "https://signal.me/#eu/uzuYVr5S1Jg-RWRIHcxmK8e9Sq6rrOHuYhXrSM_xn-pn1usuD4FMa6Pu8S2VoC9J"
+
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    
+menu:
+  main:
+    
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: categorie
+      name: Categorie
+      url: /categories/
+      weight: 20
+    - identifier: tag
+      name: Tag
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archivio
+      url: /archives/
+      weight: 40
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
