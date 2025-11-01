@@ -84,7 +84,7 @@ params:
 
   socialIcons:
     - name: rss
-      url: "#"
+      url: "https://unboundzz.github.io/posts/index.xml"
     - name: signal
       url: "https://signal.me/#eu/uzuYVr5S1Jg-RWRIHcxmK8e9Sq6rrOHuYhXrSM_xn-pn1usuD4FMa6Pu8S2VoC9J"
 
