@@ -18,7 +18,7 @@ Qui potete trovare invece il **[report di Blacklight](https://themarkup.org/blac
 
 > *Attenzione! Durante la navigazione del blog potreste imbattervi in link che rimandano a siti esterni. Cliccando su tali collegamenti, verrete reindirizzati su pagine web il cui trattamento dei dati personali **non** è gestito da me e **non** rientra sotto la mia responsabilità. Per conoscere le modalità con cui tali siti trattano i vostri dati, dovete consultare le **loro** privacy policy.*
 
-Mi sembra assurdo dover specificare una banalità del genere ma fortunatamente abbiamo burocrati pagati con le nostre tasse il cui unico dovere è complicarci la vita e romperci le palle, inventandosi assurdità di questo tipo per fingere di essere utili e "meritarsi" l'estorsione legalizzata dei "contribuenti". Come potremmo mai vivere senza?
+Mi sembra assurdo dover specificare un'ovvietà del genere per dormire sonni tranquilli, ma fortunatamente abbiamo burocrati pagati con le nostre tasse il cui unico dovere è complicarci la vita e romperci le palle inventandosi assurdità di questo tipo, per fingere di essere utili e "meritarsi" l'estorsione legalizzata dei "contribuenti". Come potremmo mai vivere senza?
 
 Come se i dati informatici avessero realmente dei proprietari poi, LOL. Lasciamo perdere.
 
