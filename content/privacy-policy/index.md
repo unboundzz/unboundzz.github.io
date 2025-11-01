@@ -16,7 +16,7 @@ Anche **questo sito è open source**, potete trovare qui il suo **[repo su GitHu
 
 Qui potete trovare invece il **[report di Blacklight](https://themarkup.org/blacklight?url=https%3A%2F%2Funboundzz.github.io&device=mobile&location=us-ca&force=false)** (come si suol dire: *"don't trust, verify!"*).
 
-> *Attenzione! Durante la navigazione del blog potreste incappare in link esterni a questo sito. Se cliccate su tali link, verrete reindirizzati su siti esterni la cui gestione dei dati non dipende da me ed è completamente fuori dal mio controllo. **Non** sono responsabile del trattamento dei dati di siti esterni. In tal caso, per ulteriori informazioni riguardo al trattamento dei dati dei siti in questione, consultate la **loro** privacy policy.*
+> *Attenzione! Durante la navigazione del blog potreste imbattervi in link che rimandano a siti esterni. Cliccando su tali collegamenti, verrete reindirizzati su pagine web il cui trattamento dei dati personali **non** è gestito da me e **non** rientra sotto la mia responsabilità. Per conoscere le modalità con cui tali siti trattano i vostri dati, dovete consultare le **loro** privacy policy.*
 
 Mi sembra assurdo dover specificare una banalità del genere ma fortunatamente abbiamo burocrati pagati con le nostre tasse il cui unico dovere è complicarci la vita e romperci le palle, inventandosi assurdità di questo tipo per fingere di essere utili e "meritarsi" l'estorsione legalizzata dei "contribuenti". Come potremmo mai vivere senza?
 
