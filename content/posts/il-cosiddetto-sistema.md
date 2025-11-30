@@ -3,7 +3,7 @@ date: '2025-11-30T12:52:28+01:00'
 draft: false
 title: 'Il cosiddetto "sistema"'
 categories: ["Riflessioni"]
-tags: ["Sistema", "Capitalismo", "Collettivismo"]
+tags: ["Sistema", "Stato", "Capitalismo", "Collettivismo"]
 cover:
   image: images/sistema.webp
   alt: "Gli ingranaggi del sistema"
@@ -25,7 +25,7 @@ Anyway, tralasciando il discorso "capitalismo", su cui sorvolerei al momento per
 
 Stavo leggendo i commenti sotto a un video di Youtube riguardante la nota "famiglia del bosco" a cui sono stati portati via i bambini. Nei commenti compare frequentemente la parola "sistema": c'è chi è (giustamente) incazzato con il sistema che ha strappato via quei poveri bimbi dai loro genitori, chi dice che sempre più persone si stanno allontanando dal sistema perché vogliono vivere in pace, e così via.
 
-E qui sta il punto: abbiate il *coraggio* di chiamare il "sistema" con il suo vero nome: Stato. Chiamatelo Stato ed ecco che scompare tutta quella fumosità intorno al "sistema", il quadro si fa improvvisamente più nitido, il tutto ha finalmente senso. Sì, c'è un qualcosa che ci incatena, che ci deruba dei nostri averi, del nostro tempo, proprio come dicevo all'inizio. E non si chiama "sistema", si chiama Stato.
+E qui sta il punto, abbiate il *coraggio* di chiamare il "sistema" con il suo vero nome: Stato. Chiamatelo Stato, ed ecco che scompare tutta quella fumosità intorno al "sistema", il quadro si fa improvvisamente più nitido, il tutto ha finalmente senso. Sì, c'è un qualcosa che ci incatena, che ci deruba dei nostri averi, del nostro tempo, proprio come dicevo all'inizio. E non si chiama "sistema", si chiama Stato.
 
 Ma qui si genera il cortocircuito in queste persone: sono collettivisti, vogliono lo Stato. Vogliono **più** Stato. Queste persone solitamente sono le stesse che si lamentano continuamente dei diritti, che pretendono questo e quello, che credono che tutto gli sia dovuto. Non hanno il coraggio di riconoscere che "il sistema", in realtà, è proprio lo Stato, la loro mammina cara che li coccola, li nutre e li difende.
 
