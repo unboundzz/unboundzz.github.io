@@ -192,7 +192,7 @@ Il craving c'era ancora, ma si stava leggermente affievolendo. Ma di poco eh, no
 
 Purtroppo, come dicevo, non è durato a lungo, perché per il resto della giornata ho avuto un craving mostruoso. Fortunatamente però la senzazione del "non riesco a fare niente" non l'ho più avuta (che fidatevi, descriverla semplificando in quel modo come ho fatto prima forse può sembrare ridicola, ma in realtà è stata la cosa peggiore che ho provato in tutto il mio periodo di astinenza. Essere *letteralmente* paralizzati dal panico e dalla depressione è una cosa orribile che non auguro a nessuno).
 
-In quei giorni ho passato anche diverse ore a curare l'orto e le piante in vaso. Mi ero dimenticato di dirlo, ma anche questo mi aiutava abbastanza: l'avere le mani impegnate. Essere indaffarato a fare lavori manuali. Probabilmente la gratificazione ottenuta dalla soddisfazione di aver fatto un buon lavoro, avete presente? Beh, anche quella sensazione è data dalla dopamina, dato che, in fin dei conti, è l'ormone della ricompensa. È il premio naturale erogato dal vostro cervello.
+In quei giorni ho passato anche diverse ore a curare l'orto e le piante in vaso. Mi ero dimenticato di dirlo, ma anche questo mi aiutava abbastanza: avere le mani impegnate, essere indaffarato a fare lavori manuali. Probabilmente per via della gratificazione ottenuta dalla soddisfazione di aver fatto un buon lavoro, avete presente? Beh, anche quella sensazione è data dalla dopamina, dato che, in fin dei conti, è l'ormone della ricompensa. È il premio naturale erogato dal nostro cervello.
 
 In un modo o nell'altro, senza accorgermene, mi ritrovavo a fare esclusivamente cose che potevano generare un po' di dopamina nel mio cervello. Avevo bisogno di fare il pieno.
 
@@ -233,7 +233,7 @@ E niente, in 10/15 minuti al massimo mi sono svapato tutto il tank, così, senza
 "Ricominciare" non l'ho vista come una sconfitta, comunque. Se avessi svapato di nuovo con la nicotina allora sì, ma così, a nicotina zero, stavo solamente correggendo il tiro. Ero partito in maniera troppo brusca. Probabilmente quelle 75 ore di inferno potevo evitarmele. Oddio, avrei dovuto sicuramente affrontare la totale assenza di svapo prima o poi, ma se solo l'avessi fatto nel modo giusto, forse non l'avrei vissuta così male, sarebbe stato molto più facile. Iniziavo a capirlo.
 
 
-## 5 semplici regole
+## 6 semplici regole
 
 Comunque, appena ho finito il tank mi sono fermato. Ho pensato che stavo ricadendo nell'automatismo inconsapevole di prima. Ok, ora avevo un "salvagente", un qualcosa a cui aggrapparmi almeno *per qualche minuto* nei momenti più critici del maremoto dell'astinenza.
 
@@ -322,9 +322,9 @@ Consiglierei di smettere con il "mio metodo"? Non lo so.
 
 Probabilmente, come ho detto anche all'inizio del post, ci saranno tanti altri metodi migliori. Volevo solo condividere la mia esperienza. Con me ha funzionato, per carità, ma le prime 75 ore sono state un vero inferno, se ci fosse un modo migliore per evitare tutta quella sofferenza sarebbe meglio. Spero che ci sia, non sono un esperto.
 
-La seconda parte invece, quella delle 5 regole, sì, la consiglio, a patto che le seguiate rigorosamente. Da lì è cambiato tutto per me, è diventato infinitamente più facile e ho smesso quasi senza accorgemene.
+La seconda parte invece, quella delle 6 regole, sì, la consiglio, a patto che le seguiate rigorosamente. Da lì è cambiato tutto per me, è diventato infinitamente più facile e ho smesso quasi senza accorgemene.
 
-Sinceramente, però, non ne ho idea se possa funzionare cominciare subito a svapare a nicotina zero senza aver fatto qualche giorno di astinenza totale. Saltare direttamente alla fase delle 5 regole potrebbe non funzionare, forse.
+Sinceramente, però, non ne ho idea se possa funzionare cominciare subito a svapare a nicotina zero senza aver fatto qualche giorno di astinenza totale. Saltare direttamente alla fase delle 6 regole potrebbe non funzionare, forse.
 
 Credo che sia molto più facile ingannare il cervello quando manca completamente di lucidità: nei primi giorni di astinenza totale, si è totalmente fuori di testa. Dopo 3 giorni di switch così brusco e di astinenza folle, vi svapereste anche il piscio di Bruno Vespa. Se svapate a zero in quel momento di craving allucinante, inizialmente il vostro cervello si comporterà come se fosse un liquido con la nicotina.
 
